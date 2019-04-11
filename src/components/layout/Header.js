@@ -18,9 +18,6 @@ const Header = ({ branding }) => {
           <Link to="/about" className="nav-link">
             <i className="far fa-question-circle" /> About
           </Link>
-          <Link to="/contact/add" className="nav-link">
-            <i className="fas fa-lg fa-user-plus" />
-          </Link>
         </Nav>
       </Navbar.Collapse>
     </Navbar>
