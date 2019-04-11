@@ -4,7 +4,7 @@ import React from "react";
 const About = () => {
   return (
     <div style={{ textAlign: "center" }}>
-      <h4 className="display-4">About Contact Manager</h4>
+      <h4 className="display-4 mt-3">About Contact Manager</h4>
 
       <p className="lead">simple app to manage contacts easily</p>
       <p className="lead">
